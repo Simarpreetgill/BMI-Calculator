@@ -12,7 +12,7 @@ using System.Windows.Forms;
  * Date - August 4, 2017
  * Description  - Created the User Interface
  * Version -0.1 - Created BMI Calculator
- * 
+ * https://github.com/Simarpreetgill/BMI-Calculator
  */
 namespace BMI_Calculator
 {
